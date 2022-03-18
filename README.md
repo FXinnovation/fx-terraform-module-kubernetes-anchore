@@ -93,7 +93,7 @@ This repository follows [Semantic Versioning 2.0.0](https://semver.org/)
 
 ## Commit Messages
 
-This repository follows the [AFCMF](https://scm.dazzlingwrench.fxinnovation.com/fxinnovation-public/pre-commit-afcmf) commit message conventions.
+This repository follows the [AFCMF](https://github.com/FXinnovation/fx-pre-commit-afcmf) commit message conventions.
 
 ## Git Hooks
 
